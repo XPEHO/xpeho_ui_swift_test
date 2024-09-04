@@ -1,0 +1,33 @@
+{
+  "originHash" : "d07c249fc348c99a0d973128b67a7fa096b6580142b943a0f7c75229317e5e94",
+  "pins" : [
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
+      "state" : {
+        "revision" : "6d932a79e7173b275b96c600c86c603cf84f153c",
+        "version" : "1.17.4"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax",
+      "state" : {
+        "revision" : "515f79b522918f83483068d99c68daeb5116342d",
+        "version" : "600.0.0-prerelease-2024-08-20"
+      }
+    },
+    {
+      "identity" : "xpeho_ui_swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/XPEHO/xpeho_ui_swift",
+      "state" : {
+        "revision" : "d5733b42c568eba69e05b214dc4d639106dcf5ca",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
